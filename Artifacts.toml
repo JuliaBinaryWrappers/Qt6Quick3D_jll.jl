@@ -1,0 +1,10 @@
+[[Qt6Quick3D]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "966328ccd401591781d9912977c20895f125c8d9"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "96c1be589630d673dca7f173ab11f416c62522df2ef4886a07d79a62d8710d91"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.8.2+0/Qt6Quick3D.v6.8.2.x86_64-linux-musl-cxx11.tar.gz"
