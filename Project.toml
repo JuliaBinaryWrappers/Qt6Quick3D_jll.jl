@@ -1,6 +1,6 @@
 name = "Qt6Quick3D_jll"
 uuid = "6dc365b9-5e99-58d6-8812-efce7277b6ef"
-version = "6.10.2+0"
+version = "6.10.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

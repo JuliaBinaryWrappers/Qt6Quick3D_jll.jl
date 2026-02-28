@@ -1,10 +1,134 @@
 [[Qt6Quick3D]]
+arch = "aarch64"
+git-tree-sha1 = "e949800a6f222e204f4e188e3063c02110eed623"
+os = "macos"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "9a6c120990fb8d90b5e13bb4818ffb40c84056962f2c2ebf52a4355152269b9f"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.aarch64-apple-darwin.tar.gz"
+[[Qt6Quick3D]]
+arch = "x86_64"
+git-tree-sha1 = "c42a6b3ef066f9d6b0682d5a31f1fbb5c3130dcd"
+os = "macos"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "260e12606838a565b13d080cb1c980317afbe3ce36e9fd1a935eda299465a07d"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.x86_64-apple-darwin.tar.gz"
+[[Qt6Quick3D]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a0ded786088e6be7172352b0db795ea697913fe1"
+os = "windows"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "dfdf76dc1dd875fdcad7620fe88a7aa88e6422a5b39223e22d8bc1c0f32eb455"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Qt6Quick3D]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1353b2ad2eea690b6af6afac6f390a1cdb8bb170"
+git-tree-sha1 = "d2f51ade53be1f4d623cd8240389c26b40b02791"
+os = "windows"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "f7a9b47b675ab55755c83d3ab2b105462bfca97797c1dae5a66c7511471a3b24"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11b162b0346c4dbb0a28238a07d547b884b1da36"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "613011218da3a9aed1fae08602fb7be93160bb148a6394839082cf3b402cb4ee"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3f033c967fb20812cc14666aaff1fe856d847df"
 libc = "musl"
 os = "linux"
 
     [[Qt6Quick3D.download]]
-    sha256 = "348a735c068d4e25a982cc2b66cc08c9f9da2ee786035fad2cac09e2c8188ea5"
-    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+0/Qt6Quick3D.v6.10.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "8ac86d2f3b6e624c349eebf21b5a4800fb472e53d7e2d8304175d2f356656fda"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "95a023afa80e5cf177199f948309896ceee6215a"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "3dc29e5c25edc231af6a913d22724ff0e6759f3cdb6be03ac761f33bb2ae190a"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e0eee32cd6a9077801af5c03441968aaab6a153e"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "66201a5bcfcdc167604e428a95cc3f6eb29d905ea9f9f8ac9fe71b04279bacd6"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b348509740fa17d75435cce9c10d9e4ecf309009"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "812e23470faa39757ea186a9bea14e93e266137399b3ac87c1e6ec6a617749ce"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ac5437fbeafbff97cd1157e822ced69f7119ecbb"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "5dc8ed5410056a9a090d08889559d20ff39084cf7f90ac2250ed0f15328ee3e2"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.i686-linux-musl-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbabeeafea542f94135c143f4364e6370029a2b8"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "96f86b1ae0ea8ce1da13244a90791bcf85b6b0d9afb223ce35b04e0181ac30f0"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "51cee7583f78c626483c0435247494c534ac8df0"
+libc = "glibc"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "3f86b4003fbbe4c76a30cd68554716045ea538d5cce45182e223d30cf34d9767"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9695a2783e3fc875b8c20b95f1ac87c39bcb7133"
+libc = "musl"
+os = "linux"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "3b2315a42a025d8208b097412991e664b89021ba530e67c7a9169a8bed7e1992"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Qt6Quick3D]]
+arch = "x86_64"
+git-tree-sha1 = "09461dc45e23df31bfac747229388bd88955c56e"
+os = "freebsd"
+
+    [[Qt6Quick3D.download]]
+    sha256 = "3f9e53ac1f4beacba5acf69ce7a44a28be1fa7e64ca02fe7082ff5429f7a3c50"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Quick3D_jll.jl/releases/download/Qt6Quick3D-v6.10.2+1/Qt6Quick3D.v6.10.2.x86_64-unknown-freebsd.tar.gz"
